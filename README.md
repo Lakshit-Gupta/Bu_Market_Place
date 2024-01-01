@@ -1,2 +1,3 @@
 # NTTS
-THIS IS A SMALL PROJECT RELATED TO MY PROJECT WHICH IS BASED ON NEWSAPI
+NEWS TEXT TO SPEECH
+An interface to get your news and translated into speech 
