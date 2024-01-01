@@ -2,7 +2,7 @@ from newsapi import NewsApiClient
 import win32com.client as wincl
 
 # Initialize the News API client
-newsapi = NewsApiClient(api_key='23cb16f32acd4543b9d70a0089c1e594')
+newsapi = NewsApiClient(api_key='GET_YOUR_KEY_AND_ENTER_IT_HERE')
 #Initializing Speech API Engine
 spk = wincl.Dispatch("SAPI.SpVoice")
 vcs = spk.GetVoices()
